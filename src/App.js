@@ -9,7 +9,7 @@ function App() {
         <div className='app'>
           <TopComponent/>
           <MiddleComponent className='Middle-Component'/>
-            <ItemsDisplay/>
+          <ItemsDisplay/>
             
         </div>
   );

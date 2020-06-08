@@ -1,4 +1,7 @@
 .app{
-  padding-left: 120px ; 
-  position: fixed;
+  padding-left: 110px ; 
+  padding-right: 110px;
+  top: 2%;
+  right: 2%;
+  justify-content: center;
 }
